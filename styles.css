@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'daniel';
   src: url("daniel.ttf");
-};
+}
 
 @font-face {
   font-family: 'comfortaaBold';
@@ -11,12 +11,7 @@
 h1 {
   font-family: 'daniel';
   color: hotpink;
-};
-
-@font-face {
-  font-family: 'daniel';
-  src: url("daniel.ttf");
-};
+}
 
 p {
   font-family: 'daniel';
