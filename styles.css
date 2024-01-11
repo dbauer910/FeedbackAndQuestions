@@ -13,11 +13,6 @@ h1 {
   color: hotpink;
 };
 
-@font-face {
-  font-family: 'daniel';
-  src: url("daniel.ttf");
-};
-
 p {
   font-family: 'daniel';
 }
